@@ -9,6 +9,7 @@ class Book(db.Model):
 
 
 
+
 # class Book:
 #     def __init__(self, id, title, description):
 #         self.id = id
